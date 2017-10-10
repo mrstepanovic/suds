@@ -9,7 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # statics
-API_KEY = "c7638c9e8a98b169c092481ba409bd9f"
+API_KEY = "YOUR_KEY_HERE"
 URL = "http://api.brewerydb.com/v2/beers/"
 params = dict(key=API_KEY, withBreweries='Y')
 

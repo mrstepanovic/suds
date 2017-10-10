@@ -1,9 +1,6 @@
 """
 PUT DOCS HERE
 """
-import json
-import requests
-import pandas as pd
 
 def request_data(request_url, request_params):
     resp = requests.get(url=request_url, params=request_params)
