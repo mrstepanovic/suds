@@ -1,3 +1,6 @@
-# suds
-Beer style analysis using data from BreweryDB
-# suds
+# Suds
+
+Here you'll find various Jupyter Notebooks for my explorations with BreweryDB.
+
+1. A Robot Walks into a Bar...
+2. ...
